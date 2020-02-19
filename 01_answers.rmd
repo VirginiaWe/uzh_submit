@@ -1,6 +1,6 @@
 ---
 title: "Collecting and Analyzing Web Data - First Project"
-author: "Fill in your name"
+author: "Virginia, Gina, Amy"
 output: html_document
 date: "last updated: `r Sys.Date()`"
 ---
@@ -37,25 +37,31 @@ terms of service: They constitute a contract between the user and the govern, so
 
 GDPR: General Data Protection Regulation is a data protection law which changes the way companies can use the personal data of their customers.
 
-Computer Fraud and Abuse Act: 
+Computer Fraud and Abuse Act: prohibits accessing a computer without authorization
 
-Sandvig v. Barr: 
+Sandvig v. Barr: A lawsuit filed in the US 2016 that challenges the CFAA that terms of service on websites prohibit investigation of research practices of companies online. 
 
 
 
 ### Terms of service
 
-Something that is not allowed:
+Something that is not allowed: 
 
-Something that is confusing:
+Something that is confusing: FB is allowed to store, copy and share photos on Facebook with others, such as service providers that support the service of facebook --> what means: service providers that support our service" exactly
 
 Something related to scraping: 
 
+You may not access or collect data from our Products using automated means (...) or attempt to access data you do not have permission to access. 
+
+(txt file --> User-agent: *, Disallow: / Facebook prohibits all automated scrapers)
+
+
+When planning to scrape a website, you should always check its robots.txt first. Robots.txt is a file used by websites to let "bots" know if or how the site should be scrapped or crawled and indexed. You could access the file by adding "/robots.txt" by the end of the link to your target website. 
 
 ### robots.txt
 
 
-webpage you checked:
+webpage you checked: https://www.facebook.com/robots.txt
 
 
 ### Hacktivism
@@ -72,9 +78,11 @@ Find information about the following people.
 
 ### Scientific debate
 
-article:
+article: https://www.tandfonline.com/doi/full/10.1080/10584609.2018.1477506
 
-author's position:
+author's position: 
+- keep the tenuousness of our access to digital data firmly in mind
+- Web scraping is much more flexible than APIs but also more work-intensive and possibly illegal in some cases
 
 \pagebreak
 
