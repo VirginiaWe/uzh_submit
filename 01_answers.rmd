@@ -33,9 +33,9 @@ Fill in this [short survey on your previous experience](https://forms.gle/BJtFLN
 
 Describe what the following terms / laws / cases refer to in one sentence each:
 
-terms of service: 
+terms of service: They constitute a contract between the user and the govern, so they regulate the use and acces to the service.
 
-GDPR: 
+GDPR: General Data Protection Regulation is a data protection law which changes the way companies can use the personal data of their customers.
 
 Computer Fraud and Abuse Act: 
 
